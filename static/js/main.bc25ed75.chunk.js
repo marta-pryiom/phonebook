@@ -1,0 +1,2 @@
+(this.webpackJsonpphonebook=this.webpackJsonpphonebook||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var o=t(1),c=t.n(o),r=t(3),s=t.n(r),h=(t(8),t(0));var i=function(){return Object(h.jsx)("h1",{children:"hello"})};s.a.render(Object(h.jsx)(c.a.StrictMode,{children:Object(h.jsx)(i,{})}),document.getElementById("root"))},8:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.bc25ed75.chunk.js.map
